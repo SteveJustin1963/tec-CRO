@@ -35,6 +35,7 @@ take analog input convert to sweep and amplitide on 8x8, similar to DSO138
 ## Acknowledgements
 
 ## References
+https://lemariva.com/blog/2020/01/dso138-ensemble-yourself-oscilloscope
 
 https://github.com/SteveJustin1963/tec-8x8
 
