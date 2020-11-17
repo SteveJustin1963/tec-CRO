@@ -1,6 +1,6 @@
 # tec-CRO
 
-
+poor mans oscilloscope
 
 
 ## Abstract
